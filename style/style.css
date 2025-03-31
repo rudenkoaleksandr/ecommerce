@@ -231,7 +231,6 @@ body {
 .features {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   padding: 0px 0px 48px;
   gap: 24px;
   max-width: 1092px;
