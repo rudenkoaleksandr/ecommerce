@@ -635,6 +635,10 @@ body {
     padding: 0 10px;
   }
 
+  .features{
+    flex-direction: column;
+  }
+
   .products {
     gap: 10px;
     justify-content: center;
