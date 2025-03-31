@@ -634,11 +634,7 @@ body {
   .footer-all-column-block {
     padding: 0 10px;
   }
-
-  .features{
-    flex-direction: column;
-  }
-
+  
   .products {
     gap: 10px;
     justify-content: center;
@@ -703,6 +699,19 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 40px;
+  }
+
+  .features{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .feature-item {
+    align-items: center;
+  }
+
+  .description {
+    text-align: center;
   }
 
   .footer {
